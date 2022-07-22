@@ -1,3 +1,8 @@
+# project files
+data*
+mini_data*
+checkpoints*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
